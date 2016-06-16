@@ -6,7 +6,7 @@
   "description": "grouptext bot",
   "dependencies": {
     "hubot": "^2.19.0",
-    "hubot-imessage": "rorito/hubot-imessage#a1c5690e0f25d92aa03e007c3c0dfa8ad68c7a16",
+    "hubot-imessage": "rorito/hubot-imessage",
     "hubot-diagnostics": "0.0.1",
     "hubot-google-images": "^0.2.6",
     "hubot-google-translate": "^0.2.0",
