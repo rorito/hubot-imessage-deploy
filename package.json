@@ -26,6 +26,7 @@
     "hubot-bitchart": "^1.0.0",
     "hubot-vine": "^0.1.1",
     "hubot-sentiment": "^1.2.7",
+    "hubot-react": "rorito/hubot-react",
     "hubot-reminder": "^0.0.1",
     "hubot-hubotagainsthumanity": "^0.0.0",
     "hubot-tag-cloud": "^0.0.1",
