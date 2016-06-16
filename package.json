@@ -40,7 +40,6 @@
     "hubot-meowme": "^0.0.1",
     "hubot-bro": "^0.1.1",
     "hubot-drstevenbrule": "^1.0.1",
-    "hubot-fail": "^1.0.0",
     "hubot-thesimpsons": "^1.1.4",
     "hubot-spotify-search": "^1.0.0"
   },
